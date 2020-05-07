@@ -23,4 +23,5 @@
         <item name="windowNoTitle">true</item>
     </style>
     <style name="Theme.Sunflower.AppBarOverlay" parent="ThemeOverlay.MaterialComponents.Dark.ActionBar"/>
+
 </resources>
